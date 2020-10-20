@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>600586420058-a53r343qoimjj6brtg3t31487inav63f.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.600586420058-a53r343qoimjj6brtg3t31487inav63f</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBQbW5aFnYfDnkMO7dXCj5mHw5uJMkqM0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>600586420058</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>aysecengiz.videoGameAppProject</string>
+	<key>PROJECT_ID</key>
+	<string>videogameproject-f84f2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videogameproject-f84f2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:600586420058:ios:33abaf96c20a13568b7d63</string>
+	<key>DATABASE_URL</key>
+	<string>https://videogameproject-f84f2.firebaseio.com</string>
+</dict>
+</plist>
